@@ -1,0 +1,16 @@
+{
+    "name": "tonyl/blog_php",
+    "description": "PHP \u0000 MySQL",
+    "type": "project",
+    "authors": [
+        {
+            "name": "1oka",
+            "email": "loktionov89.a@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}
